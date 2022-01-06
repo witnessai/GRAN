@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0,1,2,3 ./tools/dist_train.sh configs/train/Faster_FPN_Semantic_R-CNN/faster_fpn_semantic_rcnn_65_15_1x_with_matcher.py 4 

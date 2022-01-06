@@ -1,0 +1,1 @@
+python tools/gzsd_eval.py results/gzsd_65_15.pkl configs/inference/gzsd/gzsd_faster_fpn_semantic_rcnn_65_15_1x_with_matcher.py
