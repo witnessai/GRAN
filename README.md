@@ -1,4 +1,4 @@
-# Code for **From Node to Graph: Joint Reasoning on Visual-Semantic Relational Graph for Zero-Shot Detection** 
+# From Node to Graph: Joint Reasoning on Visual-Semantic Relational Graph for Zero-Shot Detection
 
 ## Installation
 GRAN is built on MMDetection. You can follow the instructions below to install the dependencies and build GRAN.
